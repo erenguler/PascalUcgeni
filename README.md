@@ -1,0 +1,2 @@
+# PascalUcgeni
+Pascal Üçgeni
